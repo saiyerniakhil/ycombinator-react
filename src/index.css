@@ -11,3 +11,42 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.title {
+  display: flex;
+  background: #F86626;
+}
+
+.upvote {
+  color: #828282;
+}
+
+h3.main-title {
+  margin: 0px;
+  padding-left: 2px;
+  padding-right: 6px;
+}
+.feed-head {
+  display: flex;
+}
+.feed-head h2 {
+  margin: 0px;
+  font-size: 20px;
+}
+.post-source {
+  margin-top: 5px;
+}
+.stat-text {
+  margin: 0px;
+  padding-left: 28px;
+  color: #828282;
+}
+.post-source{
+  color: #828282;
+}
+.feed-item {
+  margin-bottom: 8px;
+}
+.feed-list {
+  background-color: #F6F6EF;
+}
