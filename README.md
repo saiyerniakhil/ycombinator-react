@@ -1,3 +1,10 @@
+# Ycombinator news clone made with React 
+
+[Original Site](new.ycombinator.org).
+
+![Hackernews](./hacker.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
