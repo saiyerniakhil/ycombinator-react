@@ -1,6 +1,6 @@
 # Ycombinator news clone made with React 
 
-[Original Site](new.ycombinator.org).
+[Original Site](https://news.ycombinator.com/).
 
 ![Hackernews](./hacker.png)
 
